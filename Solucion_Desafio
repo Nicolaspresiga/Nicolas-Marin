@@ -1,2 +1,26 @@
+# Solicitar al usuario que ingrese 5 calificaciones
 
+print('Ingrese su calificacion de 1 a 100')
+
+calificaciones = []
+
+for i in range(5):
+
+    calificacion = float((input(f'Ingrese la calificacion {i + 1} ')))
+    calificaciones.append(calificacion)
+
+#calcular el promedio de las calificaciones
+
+promedio = sum(calificaciones)/len(calificaciones)
+
+print(promedio)
+
+# Evaluar el promedio y mostrar el resultado correspondiente
+
+if promedio >= 60:
+    print('Aprobado')
+elif 40 <= promedio <60:
+    print('En recuperacion')
+else:
+    print('Reprobado') 
 
