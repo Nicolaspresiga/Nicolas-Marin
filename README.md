@@ -1,2 +1,5 @@
 # Nicolas-Marin
 Link trablero de trello: https://trello.com/invite/b/678af90ebe424a4c454af488/ATTI009a6b851bff3796526946b35a89fc6aEABCC1B0/tablerodesafio
+
+#Link del video
+https://youtu.be/q8KQzLl3rVw
